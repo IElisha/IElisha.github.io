@@ -1,16 +1,7 @@
 {
     "navigation":
     [
-        {
-            "text": "Home",
-            "target": "index.md",
-            "toc": false
-        },
-        {
-            "text": "Notebook",
-            "target": "_vnote.json",
-            "navi": true
-        }
+        
     ],
     "actions":
     [
